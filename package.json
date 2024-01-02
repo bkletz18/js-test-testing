@@ -1,0 +1,26 @@
+{
+  "name": "js-test-testing",
+  "version": "1.0.0",
+  "description": "practice jest testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bkletz18/js-test-testing.git"
+  },
+  "keywords": [
+    "testing",
+    "ttd"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bkletz18/js-test-testing/issues"
+  },
+  "homepage": "https://github.com/bkletz18/js-test-testing#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
